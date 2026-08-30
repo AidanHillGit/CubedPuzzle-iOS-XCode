@@ -1,0 +1,49 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Xcode / macOS generated files
+*.xcworkspace/
+*.xcuserdata/
+DerivedData/
+.DS_Store
+
+# Build / packaging output
+Build/
+StagedBuilds/
+Packaging/
+
+# Crash / log files
+*.log
+*.dmp
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Keep Unreal project source/assets
+# Content/
+# Config/
+# Plugins/
+# Source/
+# *.uproject
