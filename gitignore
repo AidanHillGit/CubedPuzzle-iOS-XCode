@@ -17,6 +17,7 @@ Saved/
 
 # Xcode / macOS generated files
 *.xcworkspace/
+*.xcodeproj/
 *.xcuserdata/
 DerivedData/
 .DS_Store
